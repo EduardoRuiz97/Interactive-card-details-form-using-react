@@ -1,0 +1,9 @@
+.modal-container {
+  width: 80%;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.modal-container img, .modal-container p  {
+  margin-bottom: 1rem;
+}

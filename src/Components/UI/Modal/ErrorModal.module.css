@@ -1,0 +1,10 @@
+.modal-container {
+  width: 80%;
+  margin: 150px auto;
+  text-align: center;
+
+}
+ .modal-container p  {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
